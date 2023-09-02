@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+h2{
+    color: gray;
+}
+dd{
+    color:black;
+}
+img:hover,audio:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+ body{
+             background-image: url(pets/plain.jpg);
+             background-repeat: no-repeat;
+             background-size: cover;
+        }  
