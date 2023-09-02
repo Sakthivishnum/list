@@ -13,7 +13,7 @@ img:hover,audio:hover{
     cursor: pointer;
 }
  body{
-             background-image: url(pets/plain.jpg);
+             background-image: url(plain.jpg);
              background-repeat: no-repeat;
              background-size: cover;
         }  
